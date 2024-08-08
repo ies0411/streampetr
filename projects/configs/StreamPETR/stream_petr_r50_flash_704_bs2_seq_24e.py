@@ -185,7 +185,7 @@ model = dict(
 
 
 dataset_type = "CustomNuScenesDataset"
-data_root = "/mnt/nas3/Data/nuScenes/v1.0-mini/"
+data_root = "/mnt/nas3/Data/nuScenes/v1.0-trainval/"
 
 file_client_args = dict(backend="disk")
 
